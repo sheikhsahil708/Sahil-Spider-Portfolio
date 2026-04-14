@@ -56,7 +56,13 @@ export default function Contact() {
             Let's <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-white font-serif italic pr-2">Connect</span>
           </h2>
           <p className="text-gray-400 font-light text-lg tracking-wide leading-relaxed max-w-xl mx-auto">
-            Whether you have a groundbreaking tech vision, a complex application to build, or just want to talk shop—my inbox is always open. Let’s collaborate and architect the digital tools of tomorrow.
+           ## ✨ Let’s Connect
+
+Got a bold tech idea, a complex build in mind, or just want to talk code?
+My inbox is always open.
+
+Let’s collaborate and craft the digital experiences of tomorrow—together. 🚀
+
           </p>
         </div>
 
